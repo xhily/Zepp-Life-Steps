@@ -131,7 +131,7 @@ npm run dev
 >https://cnb.cool/
 
 腾讯云原生构建（Cloud Native Build，简称 CNB）是腾讯新一代基于代码仓库的持续集成构建平台，它支持环境一致性、分支即环境、秒级启动、构建加速和开源协作等特性。这些特性使得开发者能够更加高效地进行软件开发，无论是持续集成、持续部署、持续交付、远程开发还是开源协作。
- ![CNB 首页](https://cdn.jsdelivr.net/gh/miloce/Zepp-Life-Steps/img/cnb.png)
+ ![CNB 首页](./img/cnb.png)
 
 ### [云原生构建（Cloud Native Build）为开发者提供免费算力资源支持](https://docs.cnb.cool/zh/saas/pricing.html#%E8%B5%84%E6%BA%90%E4%BD%BF%E7%94%A8%E8%B4%B9)
 
